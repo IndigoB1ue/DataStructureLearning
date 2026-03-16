@@ -40,5 +40,5 @@
 # debug information files
 *.dwo
 
-# vscode
-*.vs
+# VirtualStudio 缓存文件
+.vs/
