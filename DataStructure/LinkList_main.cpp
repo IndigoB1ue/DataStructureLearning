@@ -9,7 +9,7 @@ struct Node
 Node* head;
 
 
-void Insert(int x) // 尾插法
+void Insert(int x) // 头插法
 {
 	Node* temp = new Node();
 	temp->data = x;
